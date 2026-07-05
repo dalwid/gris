@@ -33,6 +33,7 @@ gcc -o gerenciador main.c
 ./gerenciador
 ```
 
+``` bash
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -143,9 +144,7 @@ void destruir_gerenciador(GerenciadorPrata *gerenciador){
         free(gerenciador);
         printf("\n\nSistema Encerrado e memoria liberado.\n\n");
 }
-
-
-
+```
 
 
 
@@ -172,6 +171,7 @@ gcc -o silver_manager main.c
 ./silver_manager
 ```
 
+``` bash
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -284,9 +284,7 @@ void destroy_manager(SilverManager *manager) {
         printf("\n\nSystem Closed and memory freed.\n\n");
     }
 }
-
-
-
+```
 
 
 
