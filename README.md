@@ -4,7 +4,7 @@ Este repositório contém uma implementação em C de um Tipo Abstrato de Dados 
 
 ---
 
-## Sumário / Table of Contents
+## Sumário 
 1. [Português](#1-português)
 2. [English](#2-english)
 3. [中文 (Chinese)](#3-中文-chinese)
