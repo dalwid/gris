@@ -148,7 +148,7 @@ void destruir_gerenciador(GerenciadorPrata *gerenciador){
 
 
 
-2. English
+## 2. English
 ⚠️ Development Note: This project is under continuous creation and development until it reaches its target state.
 
 Description
@@ -288,7 +288,7 @@ void destroy_manager(SilverManager *manager) {
 
 
 
-3. 中文 (Chinese)
+## 3. 中文 (Chinese)
 ⚠️ 开发状态提示： 该项目目前正处于持续开发与构建阶段，直至完全达到预期的最终功能目标。
 
 项目简介
@@ -315,7 +315,7 @@ gcc -o silver_manager main.c
 
 
 
-4. עברית (Hebrew)
+## 4. עברית (Hebrew)
 ⚠️ הערת פיתוח: פרויקט זה נמצא בשלב של יצירה ופיתוח מתמשכים עד שיגיע למצב הסופי המבוקש.
 
 תיאור הפרויקט
@@ -338,4 +338,3 @@ gcc -o silver_manager main.c
 ./silver_manager
 ```
 
-קוד מקור באנגלית 
